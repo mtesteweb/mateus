@@ -3,7 +3,10 @@ isso é verdade mesmo
 CALÚNIA
 
 É VERDADE ELA DEU SPOILER DO CHAPOLIN
+<<<<<<< HEAD
 
 
 AULA DO LUIS
 
+
+>>>>>>> 5876e5d3cb02e32058b43430f18a977862b6c2f5
